@@ -82,3 +82,8 @@ The implementation steps are:
 ![1](https://github.com/SumaitaB/IlluminateTech-Smart-Classroom-Lighting-Solutions/assets/51522304/7ed5dfec-0158-41ef-ab67-be97add6e3d7)
 ![2](https://github.com/SumaitaB/IlluminateTech-Smart-Classroom-Lighting-Solutions/assets/51522304/0d5793ae-1687-4d31-b248-390b93280181)
 
+## Prototype:
+We have built a prototype using cardboard where we have shown two classrooms (room 101 and room 102) and a street.
+* Classroom 101: Motion Sensitive
+* Classroom 102: Blynk IoT Remote Access (can be turned on or off using any smartphone/ computer)
+* Streetlight: Light sensitive
