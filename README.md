@@ -29,4 +29,52 @@ The objectives to this experiment are as follows:
 * Laptop/Mobile
 * PVC Board
 
+## Methodology:
+1.	Research and Requirement Analysis:
+* Conduct thorough research on smart lighting technologies, including motion sensors, LDRs, Arduino microcontrollers, and IoT platforms.
+* Identify the specific requirements and objectives of the project, considering factors such as energy efficiency, user convenience, and system scalability.
+
+2.	Component Acquisition and Setup:
+* Procure the necessary hardware components, including Arduino Uno, HC-SR501 PIR Motion Sensor, LDR, NodeMCU ESP8266 Development Board, LEDs, resistors, breadboard, and jumper wires.
+* Set up the hardware components on a suitable platform, such as a breadboard, ensuring proper connections and compatibility.
+
+3.	Software Development:
+* Download and install the Arduino IDE software for programming Arduino Uno.
+* Develop the firmware code for Arduino Uno to control the lighting system based on inputs from sensors and user commands.
+* Utilize the Arduino IoT Cloud platform to enable remote access and control of the lighting system via smartphones or computers.
+
+4.	Circuit Design and Prototyping:
+* Design the circuit layout using Fritzing or a similar software tool, incorporating all hardware components and their interconnections.
+* Assemble the components on a breadboard according to the circuit diagram, ensuring accuracy and functionality.
+* Test the prototype circuit to verify its functionality and identify any potential issues or errors.
+
+5.	Prototype Implementation:
+* Construct a physical prototype of the smart lighting system using suitable materials, such as cardboard or PVC board, to simulate classroom and streetlight environments.
+* Integrate the hardware components into the prototype according to the finalized circuit design, ensuring proper placement and connectivity.
+
+6.	Code Implementation and Integration:
+* Upload the firmware code to Arduino Uno and configure it to interact with the connected sensors and peripherals.
+* Implement the necessary code on the NodeMCU ESP8266 Development Board to enable communication with the Arduino Uno and facilitate remote access via the IoT Cloud platform.
+* Ensure seamless integration between the hardware components and software solutions, testing for compatibility and functionality.
+
+7.	Testing and Optimization:
+* Conduct rigorous testing of the smart lighting system prototype in various scenarios, including motion detection, light sensitivity, and remote control.
+
+## Experimental Setup:
+The implementation steps are:
+1.	Collecting our parts such as Arduino Uno [Arduino Uno board], HC-SR501 PIR sensor, Breadboard [Breadboard],Jumper wires [Jumper wires],Resistor (10kΩ) [Resistor], LED etc.
+2.	Downloading and installing the Arduino IDE software.
+
+3.	Preparing the breadboard. 
+4.	Collecting your parts like Arduino Uno, HC-SR501 Passive Infrared Sensor, Breadboard Jumper wires, Resistor (10kΩ) [Resistor], LED etc.
+* Connecting the VCC pin of the HC-SR501 to the 5V pin of the Arduino Uno.
+* Connecting the GND pin of the HC-SR501 to the GND pin of the Arduino Uno.
+* Connecting the Out pin of the HC-SR501 to the pin3 of the Arduino Uno.
+5.	Connecting the LEDs to the Arduino Uno.
+* Connecting the long leg (positive) of each LED to a current limiting resistor (e.g., 10kΩ). Connect one resistor to each LED.
+* Connecting one resistor to pin D13 of the Arduino Uno and the other resistor to pin D12 of the Arduino Uno.
+* Connecting the short leg (negative) of each LED to GND.
+6.	Uploading the Arduino & NodeMCU code.
+7.	Connect LDR with corresponding register and LED.
+8.	Draw Circuit Diagram using Fritzing software.
 
