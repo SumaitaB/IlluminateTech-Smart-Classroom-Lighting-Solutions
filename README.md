@@ -78,3 +78,7 @@ The implementation steps are:
 7.	Connect LDR with corresponding register and LED.
 8.	Draw Circuit Diagram using Fritzing software.
 
+## Circuit Diagram:
+![1](https://github.com/SumaitaB/IlluminateTech-Smart-Classroom-Lighting-Solutions/assets/51522304/7ed5dfec-0158-41ef-ab67-be97add6e3d7)
+![2](https://github.com/SumaitaB/IlluminateTech-Smart-Classroom-Lighting-Solutions/assets/51522304/0d5793ae-1687-4d31-b248-390b93280181)
+
