@@ -87,3 +87,17 @@ We have built a prototype using cardboard where we have shown two classrooms (ro
 * Classroom 101: Motion Sensitive
 * Classroom 102: Blynk IoT Remote Access (can be turned on or off using any smartphone/ computer)
 * Streetlight: Light sensitive
+
+![3](https://github.com/SumaitaB/IlluminateTech-Smart-Classroom-Lighting-Solutions/assets/51522304/c9040b76-4eb2-47c5-8d77-ac6284c5bcdd)
+
+### Lights in room 101 are shown to be sensitive to motion as we have used PIR motion for its implementation.
+![4](https://github.com/SumaitaB/IlluminateTech-Smart-Classroom-Lighting-Solutions/assets/51522304/b23b9157-3304-4b0e-8134-b0dc8d2ef5bb)
+
+![5](https://github.com/SumaitaB/IlluminateTech-Smart-Classroom-Lighting-Solutions/assets/51522304/926018b2-a482-4462-a1ab-d444d4f060af)
+
+### Lights in room 102 are shown to be connected to the user’s smartphone using IoT cloud platform which enables the user to turn the lights on or off by clicking a button on the user’s phone any time.
+
+![6](https://github.com/SumaitaB/IlluminateTech-Smart-Classroom-Lighting-Solutions/assets/51522304/27a2d8f4-ddc7-4444-a069-b5d8214a2549)
+
+![7](https://github.com/SumaitaB/IlluminateTech-Smart-Classroom-Lighting-Solutions/assets/51522304/41b4d9bd-c9ab-41da-89a2-b23c71b696dc)
+
