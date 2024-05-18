@@ -14,3 +14,19 @@ The objectives to this experiment are as follows:
 * Ensure Maintenance Longevity: Implement measures to prolong the lifespan of lighting components, such as using motion sensors to activate lights only when necessary and incorporating fault detection mechanisms for timely maintenance, thereby reducing operational costs and enhancing system reliability.
 * Demonstrate Prototype Implementation: Develop a functional prototype of the smart lighting system within the context of a simulated educational environment, showcasing its efficacy in enhancing classroom lighting, promoting energy efficiency, and providing remote accessibility.
 
+## Components:
+* Breadboard
+* Arduino Uno
+* HC-SR501 PIR Motion Sensor
+* LDR
+* LED
+* 3.7V Battery
+* Boost Converter
+* NodeMCU ESP8266 Development Board
+* Jumper Wires
+* Resistors
+* Arduino IoT Cloud platform
+* Laptop/Mobile
+* PVC Board
+
+
