@@ -101,3 +101,26 @@ We have built a prototype using cardboard where we have shown two classrooms (ro
 
 ![7](https://github.com/SumaitaB/IlluminateTech-Smart-Classroom-Lighting-Solutions/assets/51522304/41b4d9bd-c9ab-41da-89a2-b23c71b696dc)
 
+### Streetlights are light sensitive as we have used LDR sensor so that in the daylight the streetlights can automatically turn off and at night when there is no light, the streetlights automatically turn on.
+
+
+![8](https://github.com/SumaitaB/IlluminateTech-Smart-Classroom-Lighting-Solutions/assets/51522304/c5e33925-4732-42eb-97cc-c64c8d6d6e54)
+![9](https://github.com/SumaitaB/IlluminateTech-Smart-Classroom-Lighting-Solutions/assets/51522304/d9676c86-0b34-4b1d-be1f-5cfa81426fb3)
+
+## Prototype Budget:
+* Total Cost: BDT 2400
+* Arduino Uno: BDT 1070
+* NodeMCU: BDT 520
+* Boost Converter: BDT 97
+* PIR Motion Sensor: BDT 90
+* LDR: BDT 95
+* Other Cost (Including different wires and sensors): BDT 528
+
+## Result and Discussion:
+The implementation of "IlluminateTech: Smart Lighting Solutions" yielded significant advancements in energy efficiency, user convenience, and environmental sustainability within educational environments. Through the integration of motion sensors, light-dependent resistors (LDRs), and remote access capabilities via the Arduino IoT Cloud platform, the project successfully optimized lighting control, leading to substantial energy savings and reduced environmental impact. User feedback and usability testing validated the effectiveness and convenience of the system, while fault detection mechanisms ensured reliability and maintenance longevity. The project's educational outreach initiatives and dissemination of findings underscored its inspirational impact, fostering innovation and knowledge exchange within educational communities. Overall, "IlluminateTech" exemplifies the transformative potential of smart lighting technologies in shaping more efficient, user-centric, and sustainable learning environments.
+
+## Conclusion and Future Work:
+In conclusion, "IlluminateTech: Smart Lighting Solutions" represents a pioneering effort in revolutionizing traditional lighting systems within educational institutions. By harnessing the power of advanced technologies such as motion sensors, light-dependent resistors (LDRs), and IoT platforms, the project has demonstrated tangible benefits in energy efficiency, user convenience, and environmental sustainability. Through meticulous planning, prototyping, and implementation, the project has not only showcased the practicality and efficacy of smart lighting solutions but has also inspired innovation and knowledge dissemination within educational communities. Moving forward, "IlluminateTech" serves as a beacon of progress, offering a blueprint for creating smarter, more sustainable learning environments that prioritize efficiency, comfort, and environmental stewardship.
+Future work for "IlluminateTech: Smart Lighting Solutions" could involve several avenues for further exploration and enhancement. Firstly, the integration of additional sensors, such as temperature and occupancy sensors, could enable more advanced lighting control strategies, further optimizing energy usage and enhancing user comfort. Additionally, the incorporation of machine learning algorithms could enable the system to learn and adapt to user preferences over time, providing personalized lighting experiences. Furthermore, expanding the project's scope to include integration with building management systems and renewable energy sources could offer holistic solutions for sustainable building operations. Finally, collaborative research and partnerships with industry stakeholders could facilitate the deployment of the smart lighting system in real-world educational settings, enabling scalability and broader impact. Overall, these future endeavors aim to continue advancing smart lighting technologies and their applications in creating smarter, more sustainable learning environments.
+
+
