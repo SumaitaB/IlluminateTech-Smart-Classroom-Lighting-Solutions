@@ -1,4 +1,4 @@
-# IlluminateTech: Smart Classroom Lighting Solutions
+## IlluminateTech: Smart Classroom Lighting Solutions
 
 In the modern era of technology and sustainability, the need for intelligent solutions to enhance efficiency and convenience is paramount. "IlluminateTech: Smart Classroom Lighting Solutions" presents a comprehensive project aimed at revolutionizing the traditional lighting systems within educational institutions. The project integrates cutting-edge hardware components such as Arduino Uno, HC-SR501 PIR Motion Sensor, LDR, NodeMCU ESP8266 Development Board, and a range of supporting elements to create an automated lighting ecosystem.
 
